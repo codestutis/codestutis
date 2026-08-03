@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Codestutis
 - Computer Science student at the University of New Hampshire
 ## Projects I'm Working On
-...
+♟️ [Chesstutis](https://github.com/chesstutis/site) – A chess training site that analyzes your Chess.com games to identify mistakes and generate personalized puzzles 🧩 from those positions. The goal is to turn your real game weaknesses into targeted practice so you improve faster. 📈
 ## 🛠️ Tools I Use
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
